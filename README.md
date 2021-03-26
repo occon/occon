@@ -1,5 +1,5 @@
 ### Hi there 👋
-![occon's GitHub stats](https://github-readme-stats.vercel.app/api?username=occon)
+![occon's GitHub stats](https://github-readme-stats.vercel.app/api?username=occon&show_icons=true&theme=radical)
 
 
 <!--
